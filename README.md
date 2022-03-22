@@ -1,0 +1,2 @@
+# kjaritan
+Blog for Kjartan
